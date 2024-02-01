@@ -17,3 +17,7 @@ Installing required libraries with important "Poppler"
 Run app.py
 ---
 `streamlit run app.py`
+
+**Note**
+
+Add .env file in the same folder with GOOGLE_API_KEY=<YOUR-API-KEY>
