@@ -22,3 +22,8 @@ Run app.py
 Add .env file in the same folder with environment variable GOOGLE_API_KEY="YOUR-API-KEY"
 
 To get your own Google API key go to the [Google API](https://makersuite.google.com/app/apikey)
+
+
+
+Update: 01-08-2024
+Google's Gemini 1.0 Pro Vision model has been deprecated as of July 12, 2024.
