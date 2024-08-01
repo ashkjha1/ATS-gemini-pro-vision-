@@ -26,4 +26,5 @@ To get your own Google API key go to the [Google API](https://makersuite.google.
 
 
 Update: 01-08-2024
+
 Google's Gemini 1.0 Pro Vision model has been deprecated as of July 12, 2024.
